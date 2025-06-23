@@ -1,0 +1,12 @@
+--extra-index-url https://download.pytorch.org/whl/cu118
+cadquery>=2.5.2
+datasets>=3.6.0
+ipykernel>=6.29.5
+scipy>=1.15.3
+trimesh>=4.6.11
+torch==2.2.2
+torchvision
+transformers
+Pillow
+matplotlib
+numpy<2
