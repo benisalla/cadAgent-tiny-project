@@ -41,7 +41,9 @@ pip install -r requirements.txt
 
 ---
 
-## I respected the same evaluation you gave, even though this type of evaluation is hard at the first stages of training or fine-tuning because it is always 0.0
+## Evaluation
+
+I respected the same evaluation you gave, even though this type of evaluation is hard at the first stages of training or fine-tuning because it is always 0.0
 
 * **VSR**: how many codes run without error
 * **IOU\_best**: how close the predicted shape is to the original
